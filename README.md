@@ -3,6 +3,11 @@ A box that aims to emulate the Pantheon architecture for local development
 
 Starting point forked from https://github.com/craychee/no-excuses-drupal, thank you!
 
+## Prerequisites
+* Vagrant
+* VirtualBox
+* Ansible
+
 ## Instructions
 `vagrant up`
 
